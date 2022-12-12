@@ -1,0 +1,15 @@
+#nav{
+    background-color: blueviolet;
+    
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: white;
+    background-color: rgb(176, 101, 246);
+}
+
+
